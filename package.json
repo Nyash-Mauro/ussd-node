@@ -1,0 +1,25 @@
+{
+  "name": "ussd",
+  "version": "1.0.0",
+  "description": "ussd-hack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyash-Mauro/ussd-node.git"
+  },
+  "keywords": [
+    "ussd-hack"
+  ],
+  "author": "Nyash-Mauro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nyash-Mauro/ussd-node/issues"
+  },
+  "homepage": "https://github.com/Nyash-Mauro/ussd-node#readme",
+  "dependencies": {
+    "ussd-menu-builder": "^1.2.0"
+  }
+}
